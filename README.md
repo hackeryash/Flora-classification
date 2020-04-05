@@ -43,4 +43,4 @@ taht you have downloaded. Once training is done you can now run classify.py file
 the images given to classify.py must not be the ones that were used for training.
 
 
-For any queries feel free to write at karthik8777@gmail.com
+For any queries feel free to write at yashraut232@gmail.com
